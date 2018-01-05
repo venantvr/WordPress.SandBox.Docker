@@ -4,7 +4,7 @@
 Credentials WP : admin/admin
 ```
 
-Environnement d'intégration WordPress. Persiste la base de données et les plugins dans les répertoires 'db-wordpress' et 'php-wordpress' dans le répertoire courant...
+Environnement d'intégration de plugins pour WordPress. Persiste la base de données et les plugins dans les répertoires 'db-wordpress' et 'php-wordpress' dans le répertoire courant...
 
 ```
 git clone 'https://github.com/venantvr/WordPress.SandBox.Docker.git
